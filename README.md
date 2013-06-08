@@ -1,4 +1,4 @@
 opengles-book-samples
 =====================
 
-opengles-book-samples ported to pcDuino Framebuffer
+opengles-book-samples ported for pcDuino framebuffer graphics
